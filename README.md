@@ -25,5 +25,7 @@ PCL is often involuntary and unconscious and the authors using such language are
 * [GPT](https://github.com/NganTran-0017/LING5412/blob/main/GPT.ipynb)
 
 ### [Results](https://github.com/NganTran-0017/LING5412/tree/main/Results)
+![F1](https://raw.githubusercontent.com/HuyenNguyenHelen/SemEval2022-PCL/blob/main/Results/f1_model_compar.jpg)
 
+![ROC-AUC](https://raw.githubusercontent.com/HuyenNguyenHelen/SemEval2022-PCL/blob/main/Results/roc_model_compar.jpg)
 
